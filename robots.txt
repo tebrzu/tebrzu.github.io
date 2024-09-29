@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tebrzu.github.io/LZX/sitemap.LZX.gz
